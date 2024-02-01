@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Image-To-Text-ui"]
+	path = UBOS-template-Image-To-Text-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Image-To-Text-ui.git
+	branch = main
+[submodule "UBOS-template-Image-To-Text-nr"]
+	path = UBOS-template-Image-To-Text-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Image-To-Text-nr.git
+	branch = master
