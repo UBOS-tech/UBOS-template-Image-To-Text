@@ -15,11 +15,13 @@ Image to Text
 
 <div align="center">
 
-  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech)
+  [![Use template](https://ubos.tech/wp-content/uploads/2023/06/download-logo.png)](https://platform.ubos.tech/?templateId=65bbeaacfa0b8c0011a1480b)
   
 </div>
 
 #### Welcome to our new mini-application, "Image to Text," designed to convert images into text descriptions using the powerful GPT vision model. With this tool, you can effortlessly extract textual descriptions from images, making it easier to understand and work with visual content.
+
+##### *Access to GPT-4 is required
 
 ##### Key Features:
 
